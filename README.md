@@ -17,5 +17,7 @@ License: LCho, <name>, <name>
 
 6. go to the 'dev' branch and update the readme file's line 1 and change '<name>' to '<firstLetterOfFirstName><CompleteLastName>' and commit and push readme file changes. double check that you're only pushing readme file changes.
 
-
+7. important commands to remember with angular:
+npm start
+ng build --watch
 
