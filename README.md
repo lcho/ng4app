@@ -1,3 +1,5 @@
+License: LCho, <name>, <name>
+
 0. Install Visual Studio Code -- mini IDE mini text editor
 0. Install Notepad++
 1. clone this repo: 'https://github.com/lcho/ng4app'
@@ -13,8 +15,7 @@
 
 5. delete the old api repo from your dev folder
 
-6. 
-
+6. update the readme file's line 1 and change '<name>' to '<firstLetterOfFirstName><CompleteLastName>' and commit and push readme file changes. double check that you're only pushing readme file changes.
 
 
 
