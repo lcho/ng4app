@@ -15,7 +15,7 @@ License: LCho, <name>, <name>
 
 5. delete the old api repo from your dev folder
 
-6. update the readme file's line 1 and change '<name>' to '<firstLetterOfFirstName><CompleteLastName>' and commit and push readme file changes. double check that you're only pushing readme file changes.
+6. go to the 'dev' branch and update the readme file's line 1 and change '<name>' to '<firstLetterOfFirstName><CompleteLastName>' and commit and push readme file changes. double check that you're only pushing readme file changes.
 
 
 
